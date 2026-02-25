@@ -1,7 +1,10 @@
 # iptv
 提取自湖南邵阳电信组播地址。
+
 组播内容来自http://10.255.9.200/IPTV_EPG/Channel/GetChannelsList?&version=YYS.5.9.7.266.6.HNDXIPTV.0.0_Release_ZTE_4K
-使用itv端口拨号获取内外10.139.x.x后使用rtp2httpd进行转单播地址，其中http://192.168.10.1:5140替换成你的rtp2httpd地址，fcc地址如果是邵阳电信应该是正确的。
+
+使用itv端口拨号获取内网 `10.139.x.x` 后使用rtp2httpd进行转单播地址，其中 `http://192.168.10.1:5140` 替换成你的rtp2httpd地址，fcc地址如果是邵阳电信应该是正确的。
+
 需要使用tvg-logo及访问iptv内网请设置静态路由表。
 
 | 接口 | 目标 | 	类型 |
