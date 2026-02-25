@@ -1,0 +1,375 @@
+#EXTM3U x-tvg-url="https://example.com/epg.xml.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105007873.jpg" group-title="央视",CCTV1综合
+http://192.168.10.1:5140/rtp/239.76.246.151:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105827979.jpg" group-title="央视",CCTV2经济
+http://192.168.10.1:5140/rtp/239.76.246.152:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105847968.jpg" group-title="央视",CCTV3综艺
+http://192.168.10.1:5140/rtp/239.76.246.153:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105908681.jpg" group-title="央视",CCTV4国际
+http://192.168.10.1:5140/rtp/239.76.246.154:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114608771.jpg" group-title="央视",CCTV5体育
+http://192.168.10.1:5140/rtp/239.76.247.214:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114654186.jpg" group-title="央视",CCTV6电影
+http://192.168.10.1:5140/rtp/239.76.246.156:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114712576.jpg" group-title="央视",CCTV7军事
+http://192.168.10.1:5140/rtp/239.76.246.157:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114733954.jpg" group-title="央视",CCTV8电视剧
+http://192.168.10.1:5140/rtp/239.76.246.158:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114752849.jpg" group-title="央视",CCTV9记录
+http://192.168.10.1:5140/rtp/239.76.246.159:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105036883.jpg" group-title="央视",CCTV10科教
+http://192.168.10.1:5140/rtp/239.76.246.160:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105056451.jpg" group-title="央视",CCTV11戏曲
+http://192.168.10.1:5140/rtp/239.76.245.251:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105118737.jpg" group-title="央视",CCTV12社会与法
+http://192.168.10.1:5140/rtp/239.76.246.162:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105138645.jpg" group-title="央视",CCTV13新闻
+http://192.168.10.1:5140/rtp/239.76.246.93:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725172253401.jpg" group-title="央视",CCTV14少儿
+http://192.168.10.1:5140/rtp/239.76.246.164:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105217777.jpg" group-title="央视",CCTV15音乐
+http://192.168.10.1:5140/rtp/239.76.245.252:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707105737752.jpg" group-title="央视",CCTV16奥林匹克
+http://192.168.10.1:5140/rtp/239.76.246.98:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725172523398.jpg" group-title="央视",CCTV17农业农村
+http://192.168.10.1:5140/rtp/239.76.245.238:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/26/20220726090141594.jpg" group-title="央视",CCTV5+体育赛事
+http://192.168.10.1:5140/rtp/239.76.247.215:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725172928710.jpg" group-title="央视",CCTV4中文国际 欧洲
+http://192.168.10.1:5140/rtp/239.76.246.95:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725172908936.jpg" group-title="央视",CCTV4中文国际 美洲
+http://192.168.10.1:5140/rtp/239.76.246.96:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114834707.jpg" group-title="央视",CGTN国际英语
+http://192.168.10.1:5140/rtp/239.76.245.66:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114834707.jpg" group-title="央视",CGTN国际记录
+http://192.168.10.1:5140/rtp/239.76.245.67:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114834707.jpg" group-title="央视",CGTN国际西班牙语
+http://192.168.10.1:5140/rtp/239.76.246.88:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114834707.jpg" group-title="央视",CGTN国际阿拉伯语
+http://192.168.10.1:5140/rtp/239.76.246.97:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114834707.jpg" group-title="央视",CGTN国际法语
+http://192.168.10.1:5140/rtp/239.76.246.87:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/07/20220707114834707.jpg" group-title="央视",CGTN国际俄语
+http://192.168.10.1:5140/rtp/239.76.246.86:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202504/07/20250407144500607.jpg" group-title="央视",CCTV卫生健康
+http://192.168.10.1:5140/rtp/239.76.246.247:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1647" tvg-name="第一剧场" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160639261.jpg" group-title="央视",CCTV第一剧场
+http://192.168.10.1:5140/rtp/239.76.247.49:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1648" tvg-name="风云剧场" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160659090.jpg" group-title="央视",CCTV风云剧场
+http://192.168.10.1:5140/rtp/239.76.247.50:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1646" tvg-name="风云音乐" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160727743.jpg" group-title="央视",CCTV风云音乐
+http://192.168.10.1:5140/rtp/239.76.247.51:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160746150.jpg" group-title="央视",CCTV风云足球
+http://192.168.10.1:5140/rtp/239.76.247.52:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1651" tvg-name="怀旧剧场" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160806878.jpg" group-title="央视",CCTV怀旧剧场
+http://192.168.10.1:5140/rtp/239.76.247.53:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1653" tvg-name="女性时尚" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160830392.jpg" group-title="央视",CCTV女性时尚
+http://192.168.10.1:5140/rtp/239.76.247.55:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160851866.jpg" group-title="央视",CCTV央视文化精品
+http://192.168.10.1:5140/rtp/239.76.247.56:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160914592.jpg" group-title="央视",CCTV世界地理
+http://192.168.10.1:5140/rtp/239.76.247.57:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1673" tvg-name="央视台球" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160959132.jpg" group-title="央视",CCTV央视台球
+http://192.168.10.1:5140/rtp/239.76.247.58:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1652" tvg-name="兵器科技" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728161016508.jpg" group-title="央视",CCTV兵器科技
+http://192.168.10.1:5140/rtp/239.76.247.59:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728161031187.jpg" group-title="央视",CCTV电视指南
+http://192.168.10.1:5140/rtp/239.76.247.61:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1657" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728161052675.jpg" group-title="央视",CCTV高尔夫·网球
+http://192.168.10.1:5140/rtp/239.76.247.62:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/04/20220704163929028.png" group-title="卫视",湖南卫视
+http://192.168.10.1:5140/rtp/239.76.245.115:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725163308757.jpg" group-title="卫视",江苏卫视
+http://192.168.10.1:5140/rtp/239.76.246.181:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171915329.jpg" group-title="卫视",浙江卫视
+http://192.168.10.1:5140/rtp/239.76.246.182:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725113200369.jpg" group-title="卫视",安徽卫视
+http://192.168.10.1:5140/rtp/239.76.245.196:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725140705223.jpg" group-title="卫视",北京卫视
+http://192.168.10.1:5140/rtp/239.76.246.184:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171246607.jpg" group-title="卫视",天津卫视
+http://192.168.10.1:5140/rtp/239.76.246.185:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725140831664.jpg" group-title="卫视",东方卫视
+http://192.168.10.1:5140/rtp/239.76.246.186:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725163347898.jpg" group-title="卫视",江西卫视
+http://192.168.10.1:5140/rtp/239.76.245.225:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171131282.jpg" group-title="卫视",深圳卫视
+http://192.168.10.1:5140/rtp/239.76.246.188:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725163503897.jpg" group-title="卫视",辽宁卫视
+http://192.168.10.1:5140/rtp/239.76.245.197:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725140750359.jpg" group-title="卫视",东南卫视
+http://192.168.10.1:5140/rtp/239.76.245.190:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725142100345.jpg" group-title="卫视",海南卫视
+http://192.168.10.1:5140/rtp/239.76.246.203:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725140910089.jpg" group-title="卫视",广东卫视
+http://192.168.10.1:5140/rtp/239.76.245.189:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725142401229.jpg" group-title="卫视",湖北卫视
+http://192.168.10.1:5140/rtp/239.76.246.193:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725140955485.jpg" group-title="卫视",广西卫视
+http://192.168.10.1:5140/rtp/239.76.247.54:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725165629880.jpg" group-title="卫视",山东卫视
+http://192.168.10.1:5140/rtp/239.76.246.195:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725165744159.jpg" group-title="卫视",四川卫视
+http://192.168.10.1:5140/rtp/239.76.246.91:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171950325.jpg" group-title="卫视",重庆卫视
+http://192.168.10.1:5140/rtp/239.76.246.92:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171750435.jpg" group-title="卫视",云南卫视
+http://192.168.10.1:5140/rtp/239.76.247.60:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725142014227.jpg" group-title="卫视",河南卫视
+http://192.168.10.1:5140/rtp/239.76.246.202:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725142444261.jpg" group-title="卫视",黑龙江卫视
+http://192.168.10.1:5140/rtp/239.76.246.200:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725141659448.jpg" group-title="卫视",贵州卫视
+http://192.168.10.1:5140/rtp/239.76.245.198:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725142323512.jpg" group-title="卫视",河北卫视
+http://192.168.10.1:5140/rtp/239.76.245.199:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725143304566.jpg" group-title="卫视",吉林卫视
+http://192.168.10.1:5140/rtp/239.76.246.201:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171208197.jpg" group-title="卫视",陕西卫视
+http://192.168.10.1:5140/rtp/239.76.247.76:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171040327.jpg" group-title="卫视",山西卫视
+http://192.168.10.1:5140/rtp/239.76.245.105:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725163840822.jpg" group-title="卫视",内蒙古卫视
+http://192.168.10.1:5140/rtp/239.76.245.106:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725164318176.jpg" group-title="卫视",宁夏卫视
+http://192.168.10.1:5140/rtp/239.76.245.107:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171716116.jpg" group-title="卫视",西藏卫视
+http://192.168.10.1:5140/rtp/239.76.245.108:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171453900.jpg" group-title="卫视",新疆卫视
+http://192.168.10.1:5140/rtp/239.76.245.109:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725141422200.jpg" group-title="卫视",甘肃卫视
+http://192.168.10.1:5140/rtp/239.76.246.94:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725164516896.jpg" group-title="卫视",青海卫视
+http://192.168.10.1:5140/rtp/239.76.247.132:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725170321493.jpg" group-title="卫视",厦门卫视
+http://192.168.10.1:5140/rtp/239.76.245.231:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725140646335.jpg" group-title="卫视",兵团卫视
+http://192.168.10.1:5140/rtp/239.76.245.232:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725170405904.jpg" group-title="卫视",三沙卫视
+http://192.168.10.1:5140/rtp/239.76.246.74:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202303/15/20230315102043792.jpg" group-title="卫视",延边卫视
+http://192.168.10.1:5140/rtp/239.76.247.112:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1323" tvg-name="湖南经视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190247863.jpg" group-title="地方",湖南经视
+http://192.168.10.1:5140/rtp/239.76.245.116:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190355486.jpg" group-title="地方",湖南都市
+http://192.168.10.1:5140/rtp/239.76.245.117:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1318" tvg-name="湖南电视剧" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190208518.jpg" group-title="地方",湖南电视剧频道
+http://192.168.10.1:5140/rtp/239.76.245.118:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1320" tvg-name="湖南电影" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190724502.jpg" group-title="地方",湖南电影
+http://192.168.10.1:5140/rtp/239.76.245.119:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="2002" tvg-name="湖南爱晚" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725183429006.jpg" group-title="地方",湖南爱晚
+http://192.168.10.1:5140/rtp/239.76.245.123:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1317" tvg-name="湖南娱乐" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725183859009.jpg" group-title="地方",湖南娱乐
+http://192.168.10.1:5140/rtp/239.76.245.121:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1324" tvg-name="金鹰纪实" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725191400563.jpg" group-title="教育",湖南金鹰纪实
+http://192.168.10.1:5140/rtp/239.76.245.122:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725191244212.jpg" group-title="卡通动漫",湖南金鹰卡通
+http://192.168.10.1:5140/rtp/239.76.245.120:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190803257.jpg" group-title="地方",湖南国际频道
+http://192.168.10.1:5140/rtp/239.76.245.124:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/26/20220726085615668.jpg" group-title="地方",湖南快乐购
+http://192.168.10.1:5140/rtp/239.76.245.125:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725184411594.jpg" group-title="地方",湖南教育台
+http://192.168.10.1:5140/rtp/239.76.245.233:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1674" tvg-name="茶频道" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728182530526.jpg" group-title="数字付费",湖南茶频道
+http://192.168.10.1:5140/rtp/239.76.245.239:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/06/20220706090350955.jpg" group-title="卡通动漫",卡酷少儿
+http://192.168.10.1:5140/rtp/239.76.247.81:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="348" tvg-name="优漫卡通" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171839495.jpg" group-title="卡通动漫",优漫卡通
+http://192.168.10.1:5140/rtp/239.76.245.112:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1434" tvg-name="嘉佳卡通" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725144036438.jpg" group-title="卡通动漫",嘉佳卡通
+http://192.168.10.1:5140/rtp/239.76.245.230:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1279" tvg-name="动漫秀场" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155617406.jpg" group-title="卡通动漫",动漫秀场
+http://192.168.10.1:5140/rtp/239.76.247.70:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728154735958.jpg" group-title="卡通动漫",优优宝贝
+http://192.168.10.1:5140/rtp/239.76.246.13:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="609" tvg-name="新动漫" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155451292.jpg" group-title="卡通动漫",新动漫
+http://192.168.10.1:5140/rtp/239.76.245.244:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="73" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/27/20220727163122778.jpg" group-title="教育",CETV-1中国教育1频道
+http://192.168.10.1:5140/rtp/239.76.245.192:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="74" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/27/20220727163137243.jpg" group-title="教育",CETV-2教学卫星频道
+http://192.168.10.1:5140/rtp/239.76.245.253:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1860" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725182347753.jpg" group-title="教育",CETV-4职教频道
+http://192.168.10.1:5140/rtp/239.76.245.254:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202211/02/20221102164621503.jpg" group-title="教育",EETV生态环境频道
+http://192.168.10.1:5140/rtp/239.76.247.201:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725170727269.jpg" group-title="教育",山东教育电视台
+http://192.168.10.1:5140/rtp/239.76.245.191:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1173" tvg-name="北京纪实" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202412/12/20241212101950818.jpg" group-title="教育",北京纪实科教
+http://192.168.10.1:5140/rtp/239.76.247.65:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725165606384.jpg" group-title="卫视",康巴卫视
+http://192.168.10.1:5140/rtp/239.76.246.89:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",长沙政法高清
+http://192.168.10.1:5140/rtp/239.76.253.122:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",湘西新闻综合
+http://192.168.10.1:5140/rtp/239.76.245.208:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",株洲新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.1:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",湘潭新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.4:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",浏阳电视台
+http://192.168.10.1:5140/rtp/239.76.255.6:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",岳阳新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.7:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",岳阳睛彩公共
+http://192.168.10.1:5140/rtp/239.76.255.8:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",岳阳科教频道
+http://192.168.10.1:5140/rtp/239.76.255.9:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",常德新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.10:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",怀化新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.12:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",衡阳新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.13:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",衡阳文旅法制
+http://192.168.10.1:5140/rtp/239.76.255.14:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",益阳文旅法制
+http://192.168.10.1:5140/rtp/239.76.255.15:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",娄底新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.18:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",郴州新闻综合
+http://192.168.10.1:5140/rtp/239.76.253.75:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",张家界新闻综合
+http://192.168.10.1:5140/rtp/239.76.252.234:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",张家界公共
+http://192.168.10.1:5140/rtp/239.76.252.235:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",邵阳新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.21:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",邵阳文旅民生
+http://192.168.10.1:5140/rtp/239.76.255.22:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",永州新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.23:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",永州经济生活
+http://192.168.10.1:5140/rtp/239.76.255.24:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",溆浦新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.25:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",衡阳县电视台
+http://192.168.10.1:5140/rtp/239.76.255.26:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",茶陵新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.27:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",道县新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.28:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",武冈新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.29:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",津市电视台
+http://192.168.10.1:5140/rtp/239.76.255.30:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",新化电视台
+http://192.168.10.1:5140/rtp/239.76.255.31:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",临澧新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.32:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",长沙县新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.33:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",洞口新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.34:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",安乡新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.35:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",桃源新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.36:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",湘乡新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.37:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",蓝山新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.38:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",郴州文旅
+http://192.168.10.1:5140/rtp/239.76.255.39:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",冷水江新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.40:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",湘潭电视台
+http://192.168.10.1:5140/rtp/239.76.255.41:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",长沙文旅
+http://192.168.10.1:5140/rtp/239.76.255.42:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",中方台
+http://192.168.10.1:5140/rtp/239.76.255.43:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",新田新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.44:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",麻阳新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.45:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",双峰新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.46:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",泊罗新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.47:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",涟源新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.48:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",资兴新闻综合
+http://192.168.10.1:5140/rtp/239.76.255.49:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",保靖时政
+http://192.168.10.1:5140/rtp/239.76.255.50:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",保靖时政
+http://192.168.10.1:5140/rtp/239.76.255.51:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",桂东融媒
+http://192.168.10.1:5140/rtp/239.76.253.231:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="" group-title="地方",NXTV
+http://192.168.10.1:5140/rtp/239.76.255.57:9000?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1667" tvg-name="天元围棋" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728145824831.jpg" group-title="数字付费",天元围棋
+http://192.168.10.1:5140/rtp/239.76.246.2:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1695" tvg-name="四海钓鱼" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728145849101.jpg" group-title="数字付费",四海钓鱼
+http://192.168.10.1:5140/rtp/239.76.246.4:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1684" tvg-name="快乐垂钓" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728145921580.jpg" group-title="数字付费",快乐垂钓
+http://192.168.10.1:5140/rtp/239.76.245.127:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1679" tvg-name="国学" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728154716492.jpg" group-title="数字付费",国学频道
+http://192.168.10.1:5140/rtp/239.76.247.48:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1697" tvg-name="环球旅游" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728154751224.jpg" group-title="数字付费",环球旅游
+http://192.168.10.1:5140/rtp/239.76.247.46:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1712" tvg-name="财富天下" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155103711.jpg" group-title="数字付费",财富天下
+http://192.168.10.1:5140/rtp/239.76.246.18:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭电影" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155325827.jpg" group-title="数字付费",CHC家庭影院
+http://192.168.10.1:5140/rtp/239.76.245.241:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1969" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155404430.jpg" group-title="数字付费",CHC影迷电影
+http://192.168.10.1:5140/rtp/239.76.245.242:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155427948.jpg" group-title="数字付费",CHC动作电影
+http://192.168.10.1:5140/rtp/239.76.245.243:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1282" tvg-name="都市剧场" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155832738.jpg" group-title="数字付费",都市剧场
+http://192.168.10.1:5140/rtp/239.76.247.74:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1273" tvg-name="法治天地" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160336269.jpg" group-title="数字付费",法治天地
+http://192.168.10.1:5140/rtp/239.76.247.67:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1274" tvg-name="金色" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160521295.jp" group-title="数字付费",金色学堂
+http://192.168.10.1:5140/rtp/239.76.247.75:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1283" tvg-name="游戏风云" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155712681.jpg" group-title="游戏",游戏风云
+http://192.168.10.1:5140/rtp/239.76.247.71:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155945240.jpg" group-title="游戏",乐游
+http://192.168.10.1:5140/rtp/239.76.247.68:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1281" tvg-name="生活时尚" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728155912868.jpg" group-title="数字付费",生活时尚
+http://192.168.10.1:5140/rtp/239.76.247.73:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1258" tvg-name="东方财经" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728160613522.jpg" group-title="数字付费",东方财经
+http://192.168.10.1:5140/rtp/239.76.247.69:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1670" tvg-name="早期教育" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202412/12/20241212102322389.jpg" group-title="教育",CETV早期教育
+http://192.168.10.1:5140/rtp/239.76.247.202:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202412/12/20241212102508278.jpg" group-title="教育",中央新影中学生
+http://192.168.10.1:5140/rtp/239.76.247.27:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1683" tvg-name="老故事" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728161114613.jpg" group-title="教育",中央新影老故事
+http://192.168.10.1:5140/rtp/239.76.246.76:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1678" tvg-name="环球奇观" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202412/12/20241212102737335.jpg" group-title="数字付费",环球奇观
+http://192.168.10.1:5140/rtp/239.76.247.26:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="" tvg-name="noepg" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/27/20220727113019283.jpg" group-title="天气",中国天气
+http://192.168.10.1:5140/rtp/239.76.246.61:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1685" tvg-name="书画频道" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728161226145.jpg" group-title="数字付费",书画频道
+http://192.168.10.1:5140/rtp/239.76.246.77:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1645" tvg-name="梨园" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728161317504.jpg" group-title="数字付费",梨园频道
+http://192.168.10.1:5140/rtp/239.76.245.179:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1680" tvg-name="文物宝库" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728161352685.jpg" group-title="数字付费",文物宝库
+http://192.168.10.1:5140/rtp/239.76.245.180:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1675" tvg-name="武术世界" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728161409903.jpg" group-title="数字付费",武术世界
+http://192.168.10.1:5140/rtp/239.76.245.181:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725172345479.jpg" group-title="4K",CCTV16 4K
+http://192.168.10.1:5140/rtp/239.76.246.230:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202412/12/20241212103448944.jpg" group-title="4K",CCTV 4K
+http://192.168.10.1:5140/rtp/239.76.247.101:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="1277" tvg-name="欢笑剧场" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202502/19/20250219172554124.jpg" group-title="4K",欢笑剧场4K
+http://192.168.10.1:5140/rtp/239.76.246.43:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725183517033.jpg" group-title="4K",湖南卫视4K
+http://192.168.10.1:5140/rtp/239.76.246.63:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725140722284.jpg" group-title="4K",北京卫视4K
+http://192.168.10.1:5140/rtp/239.76.246.150:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725163331139.jpg" group-title="4K",江苏卫视4K
+http://192.168.10.1:5140/rtp/239.76.247.217:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171935898.jpg" group-title="4K",浙江卫视4K
+http://192.168.10.1:5140/rtp/239.76.247.221:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725140848818.jpg" group-title="4K",东方卫视4K
+http://192.168.10.1:5140/rtp/239.76.247.225:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725171146845.jpg" group-title="4K",深圳卫视4K
+http://192.168.10.1:5140/rtp/239.76.247.136:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725140932079.jpg" group-title="4K",广东卫视4K
+http://192.168.10.1:5140/rtp/239.76.247.138:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725165651094.jpg" group-title="4K",山东卫视4K
+http://192.168.10.1:5140/rtp/239.76.247.229:1234?fcc=218.76.213.41:8027
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/26/20220726090618602.jpg" group-title="4K",四川卫视4K
+http://192.168.10.1:5140/rtp/239.76.247.233:1234?fcc=218.76.213.41:8027
