@@ -20,3 +20,4 @@
 | iptv | 61.150.160.0/24 | unicast |
 | iptv | 239.76.0.0/16 | unicast |
 | iptv | 10.0.0.0/8 | unicast |
+| iptv | 61.150.161.0/24 | unicast |
